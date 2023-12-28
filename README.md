@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frost3057
+- 👋 Hi, I’m Aman Bajpai
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning jetpack compose
 - 💞️ I’m looking to collaborate on ...
