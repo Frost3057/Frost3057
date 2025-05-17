@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![banner](https://github.com/user-attachments/assets/5a51d49e-bf9b-4d24-b0d8-4e0b7620c5ec)
 
 # Hello, world! I'm Aman — an Android developer and an artificial intelligence enthusiast. 👋🏼
 🛜 currently working on my own portfolio page<br>👨🏼‍🎓 studying computer science at Vellore Institute of Technology <br>👨🏼‍💻 working as an app developer since 2023 <br>
