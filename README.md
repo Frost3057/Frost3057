@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/5a51d49e-bf9b-4d24-b0d8-4e0b7620c5ec)
 
-# Hello, world! I'm Aman — an Android developer and an artificial intelligence enthusiast. 👋🏼
+# Hello, world! I'm Aman — an BackEnd developer and an Machine Learning enthusiast. 👋🏼
 🛜 currently working on Alethei.<br>👨🏼‍🎓 studying computer science at Vellore Institute of Technology <br>👨🏼‍💻 working as an app developer since 2023 <br>
 Check out my full portfolio here:
 👉 **[frost3057.github.io/Portfolio](https://frost3057.github.io/Portfolio/)**
